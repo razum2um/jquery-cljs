@@ -2,6 +2,8 @@
 
 The latest version of Google Closure compatible JQuery bundled in a JAR.
 
+[![Clojars Project](http://clojars.org/com.jquery/jquery/latest-version.svg)](http://clojars.org/com.jquery/jquery)
+
 ## Usage
 
     (:require [com.jquery.jQuery])
